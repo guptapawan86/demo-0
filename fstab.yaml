@@ -1,5 +1,0 @@
-mountpoints:
-  /:
-    url: "https://author-p137117-e1552554.adobeaemcloud.com/bin/franklin.delivery/guptapawan86/demo-0/main"
-    type: "markup"
-    suffix: ".html"
